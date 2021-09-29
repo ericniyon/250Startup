@@ -34,7 +34,7 @@
                                    <li><a href="#">Home</a></li>
                                    <li><a href="#about_us">About Us</a></li>
                                    <li><a href="#services">Services</a></li>
-                                   <li><a href="{{ route('skill.create')}}">Skills</a></li>
+                                   <li><a href="{{ route('skill.index')}}">Skills</a></li>
                                    <li><a href="#testimonial">Testimonial</a></li>
                                    <li><a href="#portfolio">Portfolio</a></li>
                                    <li><a href="#cntact_us">Contact Us</a></li>
