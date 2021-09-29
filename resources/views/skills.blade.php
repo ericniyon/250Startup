@@ -1,3 +1,7 @@
+@extends('layouts.app')
+
+@section('content')
+
 <div id="skills" class="skills container-fluid">
     <div class="row">
         <div class="col-md-6 skii-div tech-skill">
@@ -68,3 +72,5 @@
         </div>
     </div>
 </div>  
+
+@endsection
