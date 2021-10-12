@@ -61,6 +61,18 @@ p {
 
 .no-margin {
   margin: 0px; }
+.cell{
+  width: 33%;
+  height: 350px;
+  margin: 0 15px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.cell img{
+  width: 100%;
+  width: 300px;
+  object-fit: cover;
+}
 
 .hid {
   display: none; }
